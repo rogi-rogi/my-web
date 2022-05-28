@@ -9,24 +9,24 @@ body {
 }
 .link_title{
     padding : 10px 0;
-    text-align: center;
     color : white;
     font-size: 35px;
     text-shadow : 1px 3px 3px rgba(0, 0, 0, 0.4);
 }
-.link_icon_div{
+.link_area{
+    width: 70%;
 }
-.link_table{
-    margin: auto;
+.link_box{
+    position:relative;
 }
-.link_icon_tr td{
-    border: 2px;
-    border-style: solid;
+.icon_title{
+}
+.link_icon{
     border-color: white;
     border-radius: 35px;
     overflow: hidden;
-    width: 13%;
-    height:13%;
+    width: 70px;
+    height:70px;
     margin: 0px auto;
     float:left;
     margin:5px;
