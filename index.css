@@ -20,11 +20,15 @@ body {
 .link_icon_div{}
 .link_table{}
 .link_icon_tr td{
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
     overflow: hidden;
     width: 200px;
     height:200px;
     margin: 0px auto;
     float:left;
+    margin:5px;
 }
 .images_link {
     width: 100%;
