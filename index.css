@@ -17,8 +17,9 @@ body {
     font-size:30px;
     text-shadow : 1px 3px 3px rgba(0, 0, 0, 0.4);
 }
-.link_icon_box{}
-.link_icon{
+.link_icon_div{}
+.link_table{}
+.link_icon_tr td{
     overflow: hidden;
     width: 200px;
     height:200px;
